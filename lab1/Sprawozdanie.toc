@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Dobór rezystancji dla diody zielonej, żółtej i czerwonej}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Zadanie ,,blink''}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Obliczenia rezystancji dla diód o różnych kolorach}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Dioda + przycisk}{2}{section.2}%
+\contentsline {section}{\numberline {3}Potencjometr + dioda + Monitor Portu Szeregowego}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Zadanie ,,potencjometr i dioda''}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Opis działania przetwornika A/C}{3}{subsection.3.2}%
