@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.16)  20 OCT 2022 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.16)  20 OCT 2022 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,12 +453,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<img//01_blink.png, id=32, 593.21625pt x 486.31688pt>
-File: img//01_blink.png Graphic file (type png)
-<use img//01_blink.png>
-Package pdftex.def Info: img//01_blink.png  used on input line 62.
-(pdftex.def)             Requested size: 237.28229pt x 194.5233pt.
-
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
@@ -468,8 +462,8 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
-7.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -477,78 +471,44 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img//01_blink.png (PNG c
-opy)>]
-<img//02_button.png, id=50, 633.86812pt x 448.67625pt>
-File: img//02_button.png Graphic file (type png)
-<use img//02_button.png>
-Package pdftex.def Info: img//02_button.png  used on input line 86.
-(pdftex.def)             Requested size: 253.54276pt x 179.46732pt.
- [2 <./img//02_button.png (PNG copy)>]
-<img//03_serial_conn.png, id=90, 649.67719pt x 475.7775pt>
-File: img//03_serial_conn.png Graphic file (type png)
-<use img//03_serial_conn.png>
-Package pdftex.def Info: img//03_serial_conn.png  used on input line 116.
-(pdftex.def)             Requested size: 259.86627pt x 190.30762pt.
-<img//Serial.png, id=91, 441.90094pt x 396.7322pt>
-File: img//Serial.png Graphic file (type png)
-<use img//Serial.png>
-Package pdftex.def Info: img//Serial.png  used on input line 138.
-(pdftex.def)             Requested size: 198.85358pt x 178.52783pt.
- [3 <./img//03_serial_conn.png (PNG copy)> <./img//Serial.png (PNG copy)>]
-Overfull \hbox (4.41367pt too wide) in paragraph at lines 148--149
-[]\T1/cmr/bx/n/10 Próbkowanie \T1/cmr/m/n/10 to pobieranie próbek analogowego s
-ygnaªu co staªy okres zwany okresem próbkowania.
- []
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Overfull \hbox (29.2826pt too wide) in paragraph at lines 149--150
-\T1/cmr/m/n/10 skwantowanego sygnaªu cyfrowego, do którego przybli»ane zostaj¡ 
-okre±lone warto±ci sygnaªu analogowego. 
- []
-
-<img//Quant.png, id=114, 582.175pt x 351.3125pt>
-File: img//Quant.png Graphic file (type png)
-<use img//Quant.png>
-Package pdftex.def Info: img//Quant.png  used on input line 155.
-(pdftex.def)             Requested size: 261.97633pt x 158.08916pt.
-(./Sprawozdanie.toc)
+[2] (./Sprawozdanie.toc)
 \tf@toc=\write4
 \openout4 = `Sprawozdanie.toc'.
 
- [4 <./img//Quant.png>] (./Sprawozdanie.aux)
+ [3] [4] (./Sprawozdanie.aux)
 Package rerunfilecheck Info: File `Sprawozdanie.out' has not changed.
-(rerunfilecheck)             Checksum: FCDD9139E83872B67AFAD8D978AA4EB5;1715.
+(rerunfilecheck)             Checksum: 4CC76F9D14E0AD64AC7F4BC5DCBBED14;277.
  ) 
 Here is how much of TeX's memory you used:
- 14279 strings out of 480247
- 221795 string characters out of 5896150
- 798620 words of memory out of 5000000
- 31962 multiletter control sequences out of 15000+600000
- 483484 words of font info for 66 fonts, out of 8000000 for 9000
+ 14421 strings out of 480247
+ 223318 string characters out of 5896150
+ 1213508 words of memory out of 5000000
+ 32020 multiletter control sequences out of 15000+600000
+ 481013 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,7n,64p,403b,1407s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,64p,261b,1407s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600
-pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.60
+pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0500.60
 0pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.6
 00pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0500.
 600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000
-.600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx120
-0.600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx14
-40.600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
-200.600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm
-1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Sprawozdanie.pdf (4 pages, 443663 bytes).
+.600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx144
+0.600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm12
+00.600pk> </home/kamil/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
+728.600pk>
+Output written on Sprawozdanie.pdf (4 pages, 94421 bytes).
 PDF statistics:
- 476 PDF objects out of 1000 (max. 8388607)
- 182 compressed objects within 2 object streams
- 69 named destinations out of 1000 (max. 500000)
- 82 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 554 PDF objects out of 1000 (max. 8388607)
+ 252 compressed objects within 3 object streams
+ 163 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
