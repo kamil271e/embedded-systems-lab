@@ -9,6 +9,7 @@
 byte address[8] = {0x28, 0xFF, 0xBC, 0x88, 0x90, 0x17, 0x5, 0x76};
 
 OneWire onewire(ONEWIRE_PIN);
+DS18B20 sensors(&onewire);
 
 int sort_desc(const void *cmp1, const void *cmp2){
   int a = *((int *)cmp1);
