@@ -15,8 +15,6 @@
 %%\usepackage{tabto}
 
 \graphicspath{ {img/} }
-\title{Arduino – elementy pomiarowe (SW lab02)}
-\author{Olga Gerlich 148088, Kamil Kałużny 148121 grupa I1.2}
 \marginsize{2.5cm}{2.5cm}{0cm}{3cm}
 
 \definecolor{codegreen}{rgb}{0,0.6,0}
@@ -46,7 +44,40 @@
 \lstset{style=mystyle}
 
 \begin{document}
-	\maketitle
+	\begin{center}
+		\begin{tabular}{ p{0.32\textwidth} p{0.15\textwidth} p{0.15\textwidth} p{0.12\textwidth} p{0.12\textwidth} }
+			
+			&   &   &   &  \\
+			\hline
+			\multicolumn{5}{|c|}{}\\[-1ex]
+			\multicolumn{5}{|c|}{{\LARGE \textbf{Laboratorium z przedmiotu Systemy wbudowane (SW)}}}\\
+			\multicolumn{5}{|c|}{}\\[-1ex]
+			\hline
+			\hline
+			
+			\multicolumn{5}{|c|}{}\\[-1ex]
+			\multicolumn{5}{|c|}{{\LARGE Zadanie nr 2}}\\
+			\multicolumn{5}{|c|}{}\\[-1ex]
+			\hline
+			\hline
+			
+			\multicolumn{5}{|c|}{}\\[-1ex]
+			\multicolumn{5}{|c|}{{\textbf{Temat zajęć:} Arduino - elementy pomiarowe}}\\
+			\multicolumn{5}{|c|}{}\\[-1ex]
+			\hline
+			\hline
+			
+			\multicolumn{1}{|l|}{Prowadzący} &
+			\multicolumn{2}{|l|}{Autorzy} &
+			\multicolumn{2}{|l|}{Grupa dziekańska:} \\
+			\multicolumn{1}{|c|}{mgr inż. Ariel Antonowicz} &
+			\multicolumn{2}{|c|}{148088 i 148121} &
+			\multicolumn{2}{|c|}{I1.2} \\
+			\hline
+			\hline
+		\end{tabular}
+	\end{center}
+	\[\]
 	\section{Termometr (DS18B20) – One wire}
 	\begin{figure}[h!]
 		\begin{center}
@@ -155,6 +186,7 @@
 	Master rozpoczyna transmisję danych poprzez wystawienie impulsu reset. To powoduje zresetowanie wszystkich podłączonych urządzeń podrzędnych, które następnie wysyłają impuls obecności na linię danych. Od tego momentu, master może przesyłać sekwencje bitów do slave'ów. Urządzenie podrzędne wykona określone akcje, tylko w przypadku gdy dane polecenie dotyczy tego urządzenia. Master odczytuje dane z urządzeń slave.
 	
 	\newpage
+	\[\] \\
 	\section{RFID}
 	\begin{figure}[h!]
 		\begin{center}
